@@ -1,0 +1,11 @@
+C:\Users\archi\source\repos\G4Library\bin\Debug\G4Library.dll
+C:\Users\archi\source\repos\G4Library\bin\Debug\G4Library.pdb
+C:\Users\archi\source\repos\G4Library\bin\Debug\geometry4Sharp.dll
+C:\Users\archi\source\repos\G4Library\bin\Debug\MeshDecimator.dll
+C:\Users\archi\source\repos\G4Library\bin\Debug\MeshDecimator.pdb
+C:\Users\archi\source\repos\G4Library\bin\Debug\MeshDecimator.xml
+C:\Users\archi\source\repos\G4Library\obj\Debug\G4Library.csproj.AssemblyReference.cache
+C:\Users\archi\source\repos\G4Library\obj\Debug\G4Library.csproj.CoreCompileInputs.cache
+C:\Users\archi\source\repos\G4Library\obj\Debug\G4Library.csproj.Up2Date
+C:\Users\archi\source\repos\G4Library\obj\Debug\G4Library.dll
+C:\Users\archi\source\repos\G4Library\obj\Debug\G4Library.pdb
